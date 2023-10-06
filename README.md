@@ -1,6 +1,8 @@
 # PurpleRetroNeo_SF2000
 Custom theme for Data Frog SF2000
 
+![theme preview](hhttps://raw.githubusercontent.com/vectorus/PurpleRetroNeo_SF2000/main/preview.png?raw=true)
+
 ## Install the theme
 Open "Resources" folder on your microSD card and replace with files from this theme.
 
